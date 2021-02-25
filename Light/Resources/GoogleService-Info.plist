@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1074332195885-reunf48l7evvn32pmm7g01r0s430o3mo.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1074332195885-reunf48l7evvn32pmm7g01r0s430o3mo</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1074332195885-tp1rqgkpt8rh4dikm3lumpa0dl7dgt8v.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDfVNZ7PZOpOOhREU7zGpcsNA6dTkpF06w</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1074332195885</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.light.mindfulness</string>
+	<key>PROJECT_ID</key>
+	<string>lightapp-18332</string>
+	<key>STORAGE_BUCKET</key>
+	<string>lightapp-18332.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1074332195885:ios:9bf91a0cd456e43b0a6ca4</string>
+	<key>DATABASE_URL</key>
+	<string>https://lightapp-18332.firebaseio.com</string>
+</dict>
+</plist>

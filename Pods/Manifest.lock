@@ -1,0 +1,77 @@
+PODS:
+  - AppAuth (1.3.0):
+    - AppAuth/Core (= 1.3.0)
+    - AppAuth/ExternalUserAgent (= 1.3.0)
+  - AppAuth/Core (1.3.0)
+  - AppAuth/ExternalUserAgent (1.3.0)
+  - FBSDKCoreKit (6.3.0):
+    - FBSDKCoreKit/Basics (= 6.3.0)
+    - FBSDKCoreKit/Core (= 6.3.0)
+  - FBSDKCoreKit/Basics (6.3.0)
+  - FBSDKCoreKit/Core (6.3.0):
+    - FBSDKCoreKit/Basics
+  - FBSDKLoginKit (6.3.0):
+    - FBSDKLoginKit/Login (= 6.3.0)
+  - FBSDKLoginKit/Login (6.3.0):
+    - FBSDKCoreKit (~> 6.3.0)
+  - GoogleSignIn (5.0.2):
+    - AppAuth (~> 1.2)
+    - GTMAppAuth (~> 1.0)
+    - GTMSessionFetcher/Core (~> 1.1)
+  - GTMAppAuth (1.0.0):
+    - AppAuth/Core (~> 1.0)
+    - GTMSessionFetcher (~> 1.1)
+  - GTMSessionFetcher (1.3.1):
+    - GTMSessionFetcher/Full (= 1.3.1)
+  - GTMSessionFetcher/Core (1.3.1)
+  - GTMSessionFetcher/Full (1.3.1):
+    - GTMSessionFetcher/Core (= 1.3.1)
+  - IQKeyboardManagerSwift (6.5.5)
+  - MTCircularSlider (1.0.0)
+  - NVActivityIndicatorView (4.8.0):
+    - NVActivityIndicatorView/Presenter (= 4.8.0)
+  - NVActivityIndicatorView/Presenter (4.8.0)
+  - SDWebImage (5.7.0):
+    - SDWebImage/Core (= 5.7.0)
+  - SDWebImage/Core (5.7.0)
+  - SkyFloatingLabelTextField (3.8.0)
+
+DEPENDENCIES:
+  - FBSDKLoginKit
+  - GoogleSignIn
+  - IQKeyboardManagerSwift
+  - MTCircularSlider
+  - NVActivityIndicatorView
+  - SDWebImage (~> 5.0)
+  - SkyFloatingLabelTextField
+
+SPEC REPOS:
+  trunk:
+    - AppAuth
+    - FBSDKCoreKit
+    - FBSDKLoginKit
+    - GoogleSignIn
+    - GTMAppAuth
+    - GTMSessionFetcher
+    - IQKeyboardManagerSwift
+    - MTCircularSlider
+    - NVActivityIndicatorView
+    - SDWebImage
+    - SkyFloatingLabelTextField
+
+SPEC CHECKSUMS:
+  AppAuth: 73574f3013a1e65b9601a3ddc8b3158cce68c09d
+  FBSDKCoreKit: 5d55c8f3007c9c49b793617b9102e46355fc7e17
+  FBSDKLoginKit: d46aa04d9bb9990a4deb6441736fae24a8c94496
+  GoogleSignIn: 7137d297ddc022a7e0aa4619c86d72c909fa7213
+  GTMAppAuth: 4deac854479704f348309e7b66189e604cf5e01e
+  GTMSessionFetcher: cea130bbfe5a7edc8d06d3f0d17288c32ffe9925
+  IQKeyboardManagerSwift: 0fb93310284665245591f50f7a5e38de615960b7
+  MTCircularSlider: ce0b277515dbc1b7b9163352103c368f53739c9e
+  NVActivityIndicatorView: d24b7ebcf80af5dcd994adb650e2b6c93379270f
+  SDWebImage: a99471f452bdfa0ca52ddf5b1adf2b61cab1d1eb
+  SkyFloatingLabelTextField: 5a338412114808e961fe2d14ea2c5452c8b6e4aa
+
+PODFILE CHECKSUM: e58e33f72d9d32cfc54bbc0f945c3034b833acdc
+
+COCOAPODS: 1.9.1
